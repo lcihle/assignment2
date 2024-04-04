@@ -218,11 +218,6 @@ function Shop() {
                         </div>
                     </div>
 
-                    <div>
-                        {/* Show cart if it's not empty */}
-                        {cart.length > 0 && renderCart()}
-                    </div>
-
                     <button type="submit">Cart</button>
                 </form>
             </div>
@@ -236,6 +231,9 @@ function Shop() {
             {viewer === 2 && <Checkout />}
         </div>
     );
+}
+
+export default Shop;
 }
 
 export default Shop;
