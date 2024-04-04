@@ -1,0 +1,81 @@
+[
+     
+        {
+            "id": 1,
+            "title": "Hometown Hero",
+            "color": "blue",
+            "image": "./Burton2022.webp",
+            "category": "all-mountain",
+            "price": 350,
+            "rating": { "rate": 3.9, "count": 120 }
+
+
+
+        },
+        {   
+            "id": 2,
+            "title": "Flight Attendant",
+            "color": "white",
+            "image": "BurtonFlightAttendantCamberSplitboard.webp",
+            "category": "freestyle",
+            "price": 375,
+            "rating": { "rate": 4.6, "count": 190 }
+        },
+        {
+            "id": 3,
+            "title": "Camber",
+            "color": "black",
+            "image": "BurtonProcessCamberSnowboard.webp",
+            "category": "all-mountain",
+            "price": 475,
+            "rating": { "rate": 4.4, "count": 65 }
+        },
+        {
+            "id": 4,
+            "title": "GWO",
+            "color": "white",
+            "image": "Gnu-GWO-Snowboard.jpg",
+            "category": "freestyle",
+            "price": 245,
+            "rating": { "rate": 4.8, "count": 96 }
+      },
+      {
+        "id": 5,
+        "title": "Frosting",
+        "color": "grey",
+        "image": "GNUFrostingSnowboard.jpg",
+        "category": "all-mountain",
+        "price": 385,
+        "rating": { "rate": 4.3, "count": 196 }
+        },
+        {
+            "id": 6,
+            "title": "Hyper",
+            "color": "white",
+            "image": "GNUHyperSnowboard.jpg",
+            "category": "freestyle",
+            "price": 225,
+            "rating": { "rate": 4.8, "count": 197 }
+        },
+        {
+            "id": 7,
+            "title": "Montana",
+            "color": "black",
+            "image": "Whitespace155Montano.webp",
+            "category": "all-mountain",
+            "price": 275,
+            "rating": { "rate": 4.7, "count": 142 }
+        },
+        {
+
+            "id": 8,
+            "title": "Shaun White Pro",
+            "color": "black",
+            "image": "WhitespaceFreestyleShaunWhitePro.webp",
+            "category": "freestyle",
+            "price": 550,
+            "rating": { "rate": 3.8, "count": 225 }
+        }
+        
+    
+    ]
