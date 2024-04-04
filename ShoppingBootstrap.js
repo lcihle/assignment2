@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from "react";
-import items from "./boards.json";
+import Products from "./boards.json";
 const Shop = () => {
     const [cart, setCart] = useState([]);
     const [cartTotal, setCartTotal] = useState(0);
     const [query, setQuery] = useState('');
+    const [ProductsCategory, setProductsCategory] = useState(Products);
 
     useEffect(() => {
         total();
@@ -54,7 +55,7 @@ const Shop = () => {
             setCart(hardCopy);
             };
 
-            const listItems = items.map((el) => (
+            const listItems = Products.map((el) => (
                 // PRODUCT
                 <div class="row border-top border-bottom" key={el.id}>
                 <div class="row main align-items-center">
