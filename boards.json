@@ -1,81 +1,81 @@
 [
      
-        {
-            "id": 1,
-            "title": "Hometown Hero",
-            "color": "blue",
-            "image": "./Burton2022.webp",
-            "category": "all-mountain",
-            "price": 350,
-            "rating": { "rate": 3.9, "count": 120 }
-
-
-
-        },
-        {   
-            "id": 2,
-            "title": "Flight Attendant",
-            "color": "white",
-            "image": "BurtonFlightAttendantCamberSplitboard.webp",
-            "category": "freestyle",
-            "price": 375,
-            "rating": { "rate": 4.6, "count": 190 }
-        },
-        {
-            "id": 3,
-            "title": "Camber",
-            "color": "black",
-            "image": "BurtonProcessCamberSnowboard.webp",
-            "category": "all-mountain",
-            "price": 475,
-            "rating": { "rate": 4.4, "count": 65 }
-        },
-        {
-            "id": 4,
-            "title": "GWO",
-            "color": "white",
-            "image": "Gnu-GWO-Snowboard.jpg",
-            "category": "freestyle",
-            "price": 245,
-            "rating": { "rate": 4.8, "count": 96 }
-      },
-      {
-        "id": 5,
-        "title": "Frosting",
-        "color": "grey",
-        "image": "GNUFrostingSnowboard.jpg",
+    {
+        "id": 1,
+        "title": "Hometown Hero",
+        "color": "blue",
+        "image": "https://www.burton.com/static/product/W22/22240101000_1.png?impolicy=bglt&imwidth=428",
         "category": "all-mountain",
-        "price": 385,
-        "rating": { "rate": 4.3, "count": 196 }
-        },
-        {
-            "id": 6,
-            "title": "Hyper",
-            "color": "white",
-            "image": "GNUHyperSnowboard.jpg",
-            "category": "freestyle",
-            "price": 225,
-            "rating": { "rate": 4.8, "count": 197 }
-        },
-        {
-            "id": 7,
-            "title": "Montana",
-            "color": "black",
-            "image": "Whitespace155Montano.webp",
-            "category": "all-mountain",
-            "price": 275,
-            "rating": { "rate": 4.7, "count": 142 }
-        },
-        {
+        "price": 350,
+        "rating": { "rate": 3.9, "count": 120 }
 
-            "id": 8,
-            "title": "Shaun White Pro",
-            "color": "black",
-            "image": "WhitespaceFreestyleShaunWhitePro.webp",
-            "category": "freestyle",
-            "price": 550,
-            "rating": { "rate": 3.8, "count": 225 }
-        }
-        
+
+
+    },
+    {   
+        "id": 2,
+        "title": "Flight Attendant",
+        "color": "white",
+        "image": "https://www.burton.com/static/product/W24/22471101000_1.png?impolicy=bglt&imwidth=428",
+        "category": "freestyle",
+        "price": 375,
+        "rating": { "rate": 4.6, "count": 190 }
+    },
+    {
+        "id": 3,
+        "title": "Camber",
+        "color": "black",
+        "image": "https://cdn-tp2.mozu.com/11961-16493/cms/16493/files/34260052290002440-0000_hero.jpg?max=700&quality=60&_mzCb=_1712150556868",
+        "category": "all-mountain",
+        "price": 475,
+        "rating": { "rate": 4.4, "count": 65 }
+    },
+    {
+        "id": 4,
+        "title": "GWO",
+        "color": "white",
+        "image": "https://curated-upload.imgix.net/AgAAAB0AERu__t3WMbGTOCaCRN7BDg.png?auto=compress%2Cformat&ch=Width%2CDPR%2CSave-Data&ixlib=react-9.4.0&w=1476",
+        "category": "freestyle",
+        "price": 245,
+        "rating": { "rate": 4.8, "count": 96 }
+  },
+  {
+    "id": 5,
+    "title": "Frosting",
+    "color": "grey",
+    "image": "https://images.evo.com/imgp/700/239583/1012813/gnu-frosting-c2-snowboard-women-s-2024-.jpg",
+    "category": "all-mountain",
+    "price": 385,
+    "rating": { "rate": 4.3, "count": 196 }
+    },
+    {
+        "id": 6,
+        "title": "Hyper",
+        "color": "white",
+        "image": "https://content.backcountry.com/images/items/1200/GNU/GNUL14W/ONECOL.jpg",
+        "category": "freestyle",
+        "price": 225,
+        "rating": { "rate": 4.8, "count": 197 }
+    },
+    {
+        "id": 7,
+        "title": "Montana",
+        "color": "black",
+        "image": "https://whitespacesnow.com/cdn/shop/files/23-3PDPMontano01.png?v=1697686187&width=900",
+        "category": "all-mountain",
+        "price": 275,
+        "rating": { "rate": 4.7, "count": 142 }
+    },
+    {
+
+        "id": 8,
+        "title": "Shaun White Pro",
+        "color": "black",
+        "image": "https://content.backcountry.com/images/items/1200/WIE/WIE002V/ONESIZ.jpg",
+        "category": "freestyle",
+        "price": 550,
+        "rating": { "rate": 3.8, "count": 225 }
+    }
     
-    ]
+
+]
